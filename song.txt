@@ -5,12 +5,19 @@ Otamo tension oo bole re All is well.
 Butta bomma butta bomma
 Nannu suttukundi lele
 Butta bomma butta bomma
+<<<<<<< HEAD
 Ninnu choodaleni lele
 
 Butta bomma butta bomma
+=======
+
+>>>>>>> feature
 Nannusuttukundi lele
 Butta bomma butta bomma
 Ninnu choodaleni lele
 
+<<<<<<< HEAD
 Echataadana enataina
 Nee siggutho
+=======
+>>>>>>> feature
